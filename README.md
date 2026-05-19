@@ -4,5 +4,5 @@ A binary search tree, that could or could not help do something. I don't know wh
 
 ## An educational project!
 
-[x] using command-line output in order to understand when and from which node member-functions are called
-[x] comments in the source code :)
+ -  using command-line output in order to understand when and from which node member-functions are called
+ -  comments in the source code :)
