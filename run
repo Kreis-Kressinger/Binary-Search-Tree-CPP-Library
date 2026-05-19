@@ -1,0 +1,1 @@
+g++ myTree.cpp && ./a.out && rm --verbose a.out

@@ -1,0 +1,108 @@
+# =========================================
+# C++ Build Artifacts
+# =========================================
+
+# Executables
+a.out
+*.out
+*.exe
+*.app
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dylib
+*.dll
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# =========================================
+# Build Directories
+# =========================================
+
+build/
+Build/
+bin/
+lib/
+dist/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+CTestTestfile.cmake
+
+# Autotools
+autom4te.cache/
+aclocal.m4
+configure
+config.log
+config.status
+libtool
+m4/
+
+# =========================================
+# Dependency / Package Managers
+# =========================================
+
+# Conan
+.conan/
+
+# vcpkg
+vcpkg_installed/
+
+# =========================================
+# Editors & IDEs
+# =========================================
+
+# Vim
+*.swp
+*.swo
+*~
+.Session.vim
+
+# VSCode
+.vscode/
+
+# CLion / IntelliJ
+.idea/
+
+# Visual Studio
+.vs/
+
+# =========================================
+# Logs & Temporary Files
+# =========================================
+
+*.log
+*.tmp
+*.temp
+*.cache
+
+# =========================================
+# OS-specific
+# =========================================
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# Windows
+Thumbs.db
+Desktop.ini
